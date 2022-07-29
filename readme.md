@@ -1,4 +1,4 @@
-PlantStar
+### PlantStar
 
 Repositório destinado para armazenar projeto de rede social de plantas
 
