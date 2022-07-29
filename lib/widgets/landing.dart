@@ -66,7 +66,7 @@ class LandingPage extends StatelessWidget {
       ),
       child: Container(
         height: 60.0,
-        width: MediaQuery.of(context).size.width,
+        width: 280.0,
         decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(10.0),
           border: Border.all(color: Colors.green.shade900),
@@ -93,7 +93,7 @@ class LandingPage extends StatelessWidget {
       ),
       child: Container(
         height: 60.0,
-        width: MediaQuery.of(context).size.width,
+        width: 280.0,
         decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(10.0),
           border: Border.all(color: Colors.green.shade900),
