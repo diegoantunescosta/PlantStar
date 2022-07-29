@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070215462839",
+    "project_id": "plantstar-89271",
+    "storage_bucket": "plantstar-89271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070215462839:android:15a56dfce4795eaaa7b232",
+        "android_client_info": {
+          "package_name": "com.plantstar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070215462839-bk954k5fkgch99dh1gdp0f1roa75dgqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyzynODgbTboAkg3u7Zt72FMrw9f9yc4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070215462839-bk954k5fkgch99dh1gdp0f1roa75dgqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
